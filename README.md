@@ -1,7 +1,7 @@
 # Volleyball Team Rotation Tool
 This simple script uses list array manipulation to simulate and print all 6 stages of a volleyball team rotation.
-To use it, you insert a base sample rotation and once the script executes, it'll provide all the rotations.
+To use it, you insert a base sample rotation including the names of your teammates in the front row and back row lists. Once the script executes, it'll provide all the rotations in order.
 
-Creating it for a casual tournament as a captain, this script helped in organising player positions and combinations.
+Creating it for a casual tournament as a captain, this script saved me time and effort in organising player positions and combinations.
 A User Interface is the next important thing that can truly visualise each cycle.
 
